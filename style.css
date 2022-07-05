@@ -53,3 +53,34 @@ body{
 .s-half-width p{
     margin-bottom: 90px;
 }
+.flex-box
+{
+    display: flex;
+    padding: 5px 40px;
+}
+.recipi-img-container{
+    width: 40%;
+    height: 420px;
+    margin-left: 5%;
+    
+    border-radius: 7%;
+    box-shadow: 10px 10px 30px gray;
+    padding: 30px 35px;
+}
+.recipi-img img{
+   width: 98%;
+   height: 220px;
+}
+.description h4{
+    font-weight: 800;
+ font-size: 30px;
+}
+.Recipies h3 {
+    text-align: center;
+    font-size: 40px;
+    color: grey;
+}
+#about-recipi{
+    text-align: center;
+    margin-bottom: 60px;
+}
