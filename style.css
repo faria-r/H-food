@@ -9,7 +9,7 @@ body{
 }
 .half-width{
     width: 50%;margin: 5%;
-    border: 1px solid red;
+    
 }
 .half-width img{
     height: 100%;
@@ -20,7 +20,7 @@ body{
     margin-top: 40px;
 }
 .heading{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
     color: grey;
     margin: 0;
@@ -30,10 +30,10 @@ body{
 }
 .order{
     text-decoration: none;
-    padding: 10px 25px;
-    background-image: linear-gradient(red,tomato);
+    padding: 20px 40px;
+    background-image: linear-gradient(orange,tomato);
     color: white;
-    border-radius: 16px;
+    border-radius: 25px;
   
 }
 .sec-two{
@@ -43,7 +43,13 @@ body{
 }
 .sec-two img{
     width: 60%;
-    height: 82%;
+    height: 95%;
     margin: 5%;
     padding-left: 90px;
+}
+.s-half-width{
+    padding: 80px 10px;
+}
+.s-half-width p{
+    margin-bottom: 90px;
 }
