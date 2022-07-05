@@ -25,7 +25,7 @@ body{
     color: grey;
     margin: 0;
 }
-.heading span{
+.orange{
     color: orange;
 }
 .order{
@@ -83,4 +83,40 @@ body{
 #about-recipi{
     text-align: center;
     margin-bottom: 60px;
+}
+.section-four{
+    display: flex;
+    padding:10px;
+    box-shadow: 2px 2px 5px 5px  rgb(189, 189, 189);
+    width: 85%;
+    margin: 100px 90px;
+    border-radius: 16px;
+}
+.followers{
+    width: 25%;
+    margin: 2% 5%;
+}
+.followers h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 50px;
+font-weight:1200;
+
+}
+.followers p{
+    
+    text-align: center;
+    color: gray;
+}
+footer{
+    background-color: black;
+    padding: 20px 60px 70px 10px;
+}
+footer h2{
+    text-align: center;
+    color: gray;
+}
+footer p{
+    color: white;
+    text-align: center;
 }
